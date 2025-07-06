@@ -32,7 +32,7 @@ A console-based student database using linked list and file handling in C.
 ### 🔹 Tic-Tac-Toe in C
 
 Classic 2-player Tic-Tac-Toe game with console UI and input validation.  
-➡️ [View Repo](https://github.com/niharpipaliya10/Tic-Tac-Toe-C)
+➡️ [View Repo](https://github.com/niharpipaliya10/Tic-Tac-Toe-Console-Game-.git)
 
 (_More projects uploading soon..._)
 
