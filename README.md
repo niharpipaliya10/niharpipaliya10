@@ -27,7 +27,7 @@ I enjoy creating real-time embedded applications and constantly sharpening my sk
 ### 🔹 Student Record Management System (C)
 
 A console-based student database using linked list and file handling in C.  
-➡️ [View Repo](https://github.com/niharpipaliya10/Student-Record-Management-System-C)
+➡️ [View Repo](https://github.com/niharpipaliya10/Student-Information-Tracking-System-with-File-Support-.git)
 
 ### 🔹 Tic-Tac-Toe in C
 
